@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.FormOrder.resources
+C:\Users\ASUS\Desktop\winform_lv_max\Shop\Shop\obj\Debug\Shop.FormProduct.resources
